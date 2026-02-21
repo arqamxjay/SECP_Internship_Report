@@ -28,12 +28,11 @@ Internship Overview Duration, location, position details
 Roles and Responsibilities Detailed breakdown of duties in registration, compliance,
 research, and client support
 Key Learnings Corporate registration processes, regulatory framework,
-Section Description.
-
-Skills Developed Technical and soft skills acquired during the internship
-Projects and Tasks Case studies, compliance reviews, metrics analysis
-Challenges and Solutions Real challenges faced and how they were overcome
-Conclusion and Recommendations Summary and advice for future interns
+Section Description
+Skills Developed Projects and Tasks Challenges and Solutions Conclusion and Recommendations Technical and soft skills acquired during the internship
+Case studies, compliance reviews, metrics analysis
+Real challenges faced and how they were overcome
+Summary and advice for future interns
 Key Skills Developed
 Technical Skills
 • Data Analysis in Business & Finance Context
@@ -51,7 +50,6 @@ Internship Highlights
 • Department: Business Facilitation Centre
 • Position: Corporate Registration & Business Analysis Intern
 • Work Mode: On-site
-
 Projects Completed
 1. Company Registration Case Studies - Analysis of registration applications and verification
 processes
@@ -59,7 +57,6 @@ processes
 3. Business Facilitation Metrics Analysis - Data compilation on registration trends and process-
 ing times
 4. Documentation Management - Corporate records organization and maintenance
-
 Key Learnings
 • Comprehensive understanding of Pakistan’s corporate registration processes
 • In-depth knowledge of the Companies Act, 2017 and SECP regulations
